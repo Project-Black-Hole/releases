@@ -1,24 +1,24 @@
-EVENT HORIZON BETA LICENCE
+EVENT HORIZON BETA LICENSE
 
-Licence version 1, 22 October 2026.
+License version 2, 29 October 2026.
 
 Copyright (c) 2026 F7Spicy. All rights reserved.
 
-This licence covers the published builds of Event Horizon: the setup files
+This license covers the published builds of Event Horizon: the setup files
 and disk images, the app they install, and its updates (together, "the
 Software"). It does not cover the parts made by others that are listed in
-THIRD-PARTY-NOTICES.md: each of those keeps its own licence, and nothing in
-this licence limits what that licence allows (section 10).
+THIRD-PARTY-NOTICES.md: each of those keeps its own license, and nothing in
+this license limits what that license allows (section 10).
 
-By installing or using the Software you agree to this licence. If you do
+By installing or using the Software you agree to this license. If you do
 not agree, do not install or use it.
 
 1. What you may do. You may install and use the Software for your own
    personal, non-commercial use, on computers you own or control. This
-   licence is personal to you, non-exclusive, non-transferable and
+   license is personal to you, non-exclusive, non-transferable and
    revocable.
 
-2. What you may not do. Except where this licence or the law expressly
+2. What you may not do. Except where this license or the law expressly
    allows it, you may not:
    - copy, redistribute, share, publish, sell, rent, lend or sublicense the
      Software or its setup files, or make them available to anyone else
@@ -27,12 +27,12 @@ not agree, do not install or use it.
    - reverse engineer, decompile or disassemble the Software, except to the
      extent the law allows it despite this restriction;
    - use the Software for any commercial purpose;
-   - remove or change any copyright, trademark or licence notice in it.
+   - remove or change any copyright, trademark or license notice in it.
 
 3. Ownership. The Software is licensed, not sold. Its owner keeps all
    rights, title and interest in it, including every copyright and
    trademark. Event Horizon is a trademark of its owner. No right is given
-   except the rights this licence states.
+   except the rights this license states.
 
 4. Pre-release software. The Software is a development build. It may have
    faults, may lose or damage data, and may change or stop being offered at
@@ -41,7 +41,7 @@ not agree, do not install or use it.
 5. Your responsibility. You are responsible for the models, files, servers,
    scripts and services you use with the Software, and for how you use what
    it produces. Models, servers and services made by others come under
-   their own licences and terms, which you must follow.
+   their own licenses and terms, which you must follow.
 
 6. No warranty. THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE",
    WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY
@@ -56,19 +56,19 @@ not agree, do not install or use it.
    GOODWILL, EVEN IF ADVISED OF THEIR POSSIBILITY. Where the law does not
    allow a liability to be excluded, it is limited to the smallest extent
    the law allows. Some places do not allow some of these exclusions or
-   limits, so some of them may not apply to you; nothing in this licence
+   limits, so some of them may not apply to you; nothing in this license
    limits a right the law gives you that cannot be limited by agreement.
 
-8. Ending. This licence ends at once, without notice, if you break any of
+8. Ending. This license ends at once, without notice, if you break any of
    its terms. The owner may also end it at any time. When it ends you must
    stop using the Software and delete every copy of it you have. Sections 3
    and 5 to 10 go on applying after it ends.
 
 9. Changes. A later version of the Software may come with a new version of
-   this licence. The app asks you to agree to a new version before you use
+   this license. The app asks you to agree to a new version before you use
    the Software again.
 
 10. Parts made by others. The Software includes open-source components
-    under their own licences, listed in THIRD-PARTY-NOTICES.md (in the app:
-    Settings, Licences). Those licences apply to those components, and
-    nothing in this licence restricts what they allow.
+    under their own licenses, listed in THIRD-PARTY-NOTICES.md (in the app:
+    Settings > About). Those licenses apply to those components, and
+    nothing in this license restricts what they allow.
